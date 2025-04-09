@@ -1,4 +1,4 @@
-# hey, I'm Harsh 👋
+# Hey, I'm Harsh     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
 
 I build tools that solve real-world problems — from transparent food supply chains to financial literacy platforms for women.
 
